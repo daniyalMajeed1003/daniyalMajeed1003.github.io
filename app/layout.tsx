@@ -25,7 +25,7 @@ const robotoFlex = Roboto_Flex({
     subsets: ['latin'],
     variable: '--font-roboto-flex',
 });
-
+// meta name
 export const metadata: Metadata = {
     title: 'Portfolio - Daniyal Majeed',
     description: 'Personal portfolio of Daniyal Majeed',
